@@ -1,12 +1,15 @@
-{
-  "name": "yudhaseo.blogspot.com",
-  "short_name": "YudhaSeo",
-  "start_url": "https://yudhaseo.blogspot.com/?m=1",
-  "display": "standalone",
-  "background_color": "#fff",
-  "theme_color": "#2B0C93",
-  "description": "Sharing various tutorials, tips & tricks about the world of blogging and gaming.",
-  "icons": [{
+{"name" : "yudhaseo.blogspot.com",
+    "short_name" : "YudhaSeo",
+    "start_url" : "https://yudhaseo.blogspot.com",
+    "display" : "standalone",
+    "background_color" : "#fff",
+    "theme_color" : "#2B0C93",
+    "description" : "Sharing various tutorials, tips & tricks about the world of blogging and gaming.",
+    "lang" : "English",
+    "orientation" : "any",
+    "scope" : "/",
+    "icons" : [
+        {
     "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-k53HCS_6_-A/W-4fb23BSyI/AAAAAAAAA5A/WaDcjeUQtAcw6kIIV3_fg6GEEgh8P22NwCLcBGAs/s48/yudha-seo-logo.png",
     "sizes": "48x48",
     "type": "image/png"
